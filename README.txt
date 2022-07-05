@@ -1,5 +1,3 @@
-Dabelea Ioana-Viviana - 313CB
-
 Functia PageRank primeste ca parametrii numele fisierului de intrare, coeficientul d si valoarea maxima a erorii eps.
 In R1 se calculeaza vectorul Page Rank cu metoda iterative si in R2 cu algoritmul Algebraic.
 Citesc din fisier valorile grafului, pentru a ajunge la val1 su val2 necesare pentru calcularea functiei de apartenenta.
